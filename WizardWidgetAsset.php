@@ -22,9 +22,9 @@ class WizardWidgetAsset extends AssetBundle
 		'yii\bootstrap\BootstrapPluginAsset'
 	];
 	public $css = [
-		'css/wizardwidget.css',
+		//'css/wizardwidget.css',
 	];
 	public $js = [
-		'js/wizardwidget.js'
+		//'js/wizardwidget.js'
 	];
 }
